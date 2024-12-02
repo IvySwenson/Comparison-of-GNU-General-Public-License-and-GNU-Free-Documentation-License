@@ -17,7 +17,7 @@ The purpose of the document is to help readers understand the key differences an
 ## Submission Details  
 
 - **Author:** Ivy Swenson  
-- **Course:** [ComputerEthicsAndTechnicalCommunication]  
+- **Course:** ComputerEthicsAndTechnicalCommunication  
 - **Date:** December 3, 2024  
 
 ---
