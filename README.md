@@ -1,0 +1,1 @@
+# Comparison-of-GNU-General-Public-License-and-GNU-Free-Documentation-License
